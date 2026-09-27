@@ -7,7 +7,7 @@
 </div>
 
 
-# Hello, I'm Aya 👋
+## Hello, I'm Aya 👋
 
 I build reliable data pipelines and data platforms using **Python, SQL, Spark, Kafka, and Cloud technologies**.
 
@@ -18,7 +18,7 @@ Alongside engineering, I focus on building well-documented and maintainable solu
 
 ---
 
-# 🛠️ What I'm working with
+## 🛠️ What I'm working with
 
 
 | Area | Tools & Technologies |
@@ -33,7 +33,7 @@ Alongside engineering, I focus on building well-documented and maintainable solu
 
 ---
 
-# 🚀 Featured Work
+## 🚀 Featured Work
 
 | Project | Focus | Stack |
 |---|---|---|
@@ -42,7 +42,7 @@ Alongside engineering, I focus on building well-documented and maintainable solu
 
 ---
 
-# 📐 How I approach a Data Project
+## 📐 How I approach a Data Project
 
 
 I start with understanding the business problem and designing the appropriate data architecture.
@@ -60,7 +60,7 @@ A successful data pipeline is not only about moving data; it should include clea
 
 ---
 
-# 💡 Soft Skills
+## 💡 Soft Skills
 
 
 - Clear communication with technical and non-technical stakeholders
@@ -73,7 +73,7 @@ A successful data pipeline is not only about moving data; it should include clea
 
 ---
 
-# 📜 Education & Certifications
+## 📜 Education & Certifications
 
 
 ## Certifications
@@ -91,7 +91,7 @@ A successful data pipeline is not only about moving data; it should include clea
 
 ---
 
-# 🌐 Let's Connect
+## 🌐 Let's Connect
 
 
 <div align="center">
